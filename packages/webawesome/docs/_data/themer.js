@@ -97,8 +97,8 @@ export const themes = [
       weight: 1,
     },
     palette: {
-      name: 'N2',
-      filename: 'n2.css',
+      name: 'Default',
+      filename: 'default.css',
     },
     colorBrand: {
       color: 'green',
